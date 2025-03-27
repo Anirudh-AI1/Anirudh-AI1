@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/bDqd5.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-ai1&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-ai1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
