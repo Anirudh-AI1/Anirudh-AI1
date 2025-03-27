@@ -1,3 +1,5 @@
+![logo](https://github.com/Anirudh-AI1/Anirudh-AI1/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
